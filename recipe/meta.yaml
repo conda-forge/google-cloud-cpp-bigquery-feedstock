@@ -110,5 +110,4 @@ about:
 extra:
   feedstock-name: google-cloud-cpp-bigquery
   recipe-maintainers:
-    - coryan
     - conda-forge/google-cloud-cpp
